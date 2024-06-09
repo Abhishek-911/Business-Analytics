@@ -1,5 +1,5 @@
 # Business-Analytics
 
-** Dataset Link - https://lrrd4kx7ynbus37.sg.qlikcloud.com/dataset/66602dadfadcab72693d58aa
+** Dataset Link - https://drive.google.com/file/d/179vhneGMLi_YMrSsg8H1GRyWrhe_o2An/view?usp=sharing
 
-** Demonstration Video Link - 
+** Demonstration Video Link - https://drive.google.com/file/d/1nbe0p-delFiPjYhdqxeFSDUu0QonkD_U/view?usp=sharing
